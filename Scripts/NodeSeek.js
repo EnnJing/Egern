@@ -9,7 +9,7 @@ Version : v1.0.1
 2. 添加定时任务自动签到
 *******************************/
 
-const SCRIPT_NAME = "NodeSeek签到";
+const SCRIPT_NAME = "NodeSeek🎉";
 const STORE_KEY = "nodeseek_headers";
 
 // ========== 工具函数 ==========
